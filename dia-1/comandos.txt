@@ -1,0 +1,10 @@
+#Treinamento Terraform
+## Dia 01
+### Introdução ao Git
+
+### Comandos básicos
+- git init -> inicaliza repositório.
+- git status -> mostra status, se tem arquivo novo, para comitar.
+- git add -> adiciona arquivo a área de staging, para ser comitado.
+- git commit -> grava a modificação.
+- git log -> mostra o histórico
